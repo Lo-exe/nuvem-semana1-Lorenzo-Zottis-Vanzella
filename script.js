@@ -1,3 +1,4 @@
+console.log("teste");
 const out = document.getElementById("out");
 const btnGet = document.getElementById("btnGet");
 const btnPost = document.getElementById("btnPost");
